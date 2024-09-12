@@ -1,0 +1,13 @@
+{
+  "name": "241e8c6b-8288-40f4-804d-a27775aba49e",
+  "displayName": "set-language - custom",
+  "parameters": [ {
+    "id": "duration",
+    "entityType": "@sys.duration"
+  }, {
+    "id": "person",
+    "entityType": "@sys.person"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 6
+}

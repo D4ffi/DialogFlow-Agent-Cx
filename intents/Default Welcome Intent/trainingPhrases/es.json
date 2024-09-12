@@ -1,0 +1,43 @@
+{
+  "trainingPhrases": [ {
+    "id": "88a25071-4bf3-4b70-aa10-125223d48d2f",
+    "parts": [ {
+      "text": "hola",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "es"
+  }, {
+    "id": "353d0556-e97e-491d-8a03-5faa93966f10",
+    "parts": [ {
+      "text": "hey",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "es"
+  }, {
+    "id": "eabff111-3c2f-48e8-9a91-c3b2821bb408",
+    "parts": [ {
+      "text": "saludos",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "es"
+  }, {
+    "id": "861446bc-306f-4295-9cc6-7c72274c63d5",
+    "parts": [ {
+      "text": "hey ho",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "es"
+  }, {
+    "id": "f880d5e5-9f5c-43f0-811e-debadf063d4b",
+    "parts": [ {
+      "text": "chao",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "es"
+  } ]
+}

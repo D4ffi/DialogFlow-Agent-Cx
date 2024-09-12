@@ -1,0 +1,20 @@
+{
+  "name": "c465b1a1-4c9f-4998-b16e-6369192d1d68",
+  "displayName": "Gen3",
+  "placeholders": [ {
+    "id": "language",
+    "name": "language"
+  }, {
+    "id": "languagedur",
+    "name": "languagedur"
+  } ],
+  "modelParameter": {
+    "temperature": 0.5,
+    "maxDecodeSteps": 128,
+    "topP": 0.94999999,
+    "topK": 40
+  },
+  "llmModelSettings": {
+    "model": "gemini-1.5-flash"
+  }
+}

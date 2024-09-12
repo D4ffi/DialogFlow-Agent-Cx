@@ -1,0 +1,61 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "sé español desde hace "
+    }, {
+      "text": "5 semanas",
+      "parameterId": "duration"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "he sabido "
+    }, {
+      "text": "Inglés",
+      "parameterId": "person",
+      "auto": true
+    }, {
+      "text": " durante"
+    }, {
+      "text": " 8 meses",
+      "parameterId": "duration"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "desde hace "
+    }, {
+      "text": "5 años",
+      "parameterId": "duration"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "for "
+    }, {
+      "text": "5 years",
+      "parameterId": "duration"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "about "
+    }, {
+      "text": "4 days",
+      "parameterId": "duration"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "3 years",
+      "parameterId": "duration"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  } ]
+}

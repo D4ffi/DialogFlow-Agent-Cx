@@ -1,0 +1,17 @@
+{
+  "name": "6bf4f186-c352-4bcd-a408-cef9b0fb58da",
+  "displayName": "Gen2",
+  "placeholders": [ {
+    "id": "language",
+    "name": "language"
+  } ],
+  "modelParameter": {
+    "temperature": 0.5,
+    "maxDecodeSteps": 128,
+    "topP": 0.94999999,
+    "topK": 40
+  },
+  "llmModelSettings": {
+    "model": "gemini-1.5-flash"
+  }
+}

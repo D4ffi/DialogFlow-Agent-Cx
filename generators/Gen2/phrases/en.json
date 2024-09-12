@@ -1,0 +1,6 @@
+{
+  "promptTexts": [ {
+    "text": "Eres un entrevistador que acaba de preguntar que idioma habla el cliente, usa su respuesta $language y ahora pregunta de forma amable por cuánto tiempo ha sabido ese idioma",
+    "languageCode": "en"
+  } ]
+}

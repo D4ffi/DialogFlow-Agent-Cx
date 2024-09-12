@@ -1,0 +1,38 @@
+{
+  "name": "e7506514-36d9-49a9-9f38-094bfd30f39a",
+  "displayName": "Lenguaje",
+  "form": {
+  
+  },
+  "entryFulfillment": {
+    "messages": [ {
+      "text": {
+        "text": [ "$request.generative.answer" ]
+      },
+      "languageCode": "en"
+    } ],
+    "generators": [ {
+      "generator": "projects/hph-practicas/locations/global/agents/88bac769-fc6d-4c72-a5f2-f1d568f6fae5/generators/06cd0771-1110-4bbe-9f58-00f63ce53933",
+      "outputParameter": "$request.generative.answer"
+    } ],
+    "nextActionOverride": {
+    
+    }
+  },
+  "transitionRoutes": [ {
+    "intent": "set-language",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "$session.params.language" ]
+        },
+        "languageCode": "es"
+      } ],
+      "nextActionOverride": {
+      
+      }
+    },
+    "targetPage": "respuesta",
+    "name": "b67347b2-a147-4ed1-a8b1-a909cd2443be"
+  } ]
+}

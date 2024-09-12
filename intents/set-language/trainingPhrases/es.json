@@ -1,0 +1,12 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "I speak "
+    }, {
+      "text": "English",
+      "parameterId": "language"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "es"
+  } ]
+}

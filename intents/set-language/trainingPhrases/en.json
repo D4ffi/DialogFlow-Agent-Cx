@@ -1,0 +1,66 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "mi idioma es "
+    }, {
+      "text": "japonés",
+      "parameterId": "language"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "hablo "
+    }, {
+      "text": "español",
+      "parameterId": "language"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I know how to code in "
+    }, {
+      "text": "Java",
+      "parameterId": "language-programming"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I know "
+    }, {
+      "text": "javascript",
+      "parameterId": "language-programming"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I know how to write in "
+    }, {
+      "text": "German",
+      "parameterId": "language"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I speak "
+    }, {
+      "text": "French",
+      "parameterId": "language"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I know "
+    }, {
+      "text": "English",
+      "parameterId": "language"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  } ]
+}

@@ -1,0 +1,15 @@
+{
+  "entities": [ {
+    "value": "JavaScript",
+    "synonyms": [ "JavaScript", "js", "ECMAScript" ],
+    "languageCode": "en"
+  }, {
+    "value": "Java",
+    "synonyms": [ "Java" ],
+    "languageCode": "en"
+  }, {
+    "value": "Python",
+    "synonyms": [ "Python", "py" ],
+    "languageCode": "en"
+  } ]
+}

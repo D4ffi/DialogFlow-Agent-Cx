@@ -1,0 +1,13 @@
+{
+  "name": "a1c369b6-54f8-4c85-84b6-cd4a5ac64e5d",
+  "displayName": "set-language",
+  "parameters": [ {
+    "id": "language",
+    "entityType": "@sys.language"
+  }, {
+    "id": "language-programming",
+    "entityType": "@language-programming"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 8
+}

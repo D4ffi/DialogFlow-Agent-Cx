@@ -1,0 +1,13 @@
+{
+  "name": "06cd0771-1110-4bbe-9f58-00f63ce53933",
+  "displayName": "Gen1",
+  "modelParameter": {
+    "temperature": 1,
+    "maxDecodeSteps": 1231,
+    "topP": 0.94999999,
+    "topK": 40
+  },
+  "llmModelSettings": {
+    "model": "gemini-1.5-flash"
+  }
+}
